@@ -12,7 +12,3 @@ public class Item {
 	private String name;
 	private Integer number;
 }
-//11111
-//3333
-//555
-//6666
